@@ -5,7 +5,9 @@ A wrapper for the KORGMapper SuperCollider classes by Adam Jurazek
 
 https://github.com/Endut/KORGNanoKontrol
 
-2) How to use the wrapper:
+2) Download the KORGEasyMap file from this repository
+
+3) How to use the wrapper:
 
 ``` js
 (
