@@ -1,10 +1,13 @@
 # KORGEasyMap
-A wrapper for the KORGMapper SuperCollider classes by Adam Jurazek:
+A wrapper for the KORGMapper SuperCollider classes by Adam Jurazek
 
-// Download the KORGMapper classes first:
+1) First download the KORGMapper classes from:
+
 https://github.com/Endut/KORGNanoKontrol
 
-// How to use the wrapper:
+2) How to use the wrapper:
+
+``` js
 (
   MIDIdef.freeAll;
 	Buffer.freeAll;
@@ -25,7 +28,11 @@ a = Pbind(
 m.mapButton(0,{ a = a.play; "I'm playing".postln},{ a.stop; "I stopped".postln});
 )
 
-// Enjoy.
+//Enjoy
+
+```
+
+
 
 
 
