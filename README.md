@@ -1,13 +1,18 @@
 # KORGEasyMap
 A wrapper for the KORGMapper SuperCollider classes by Adam Jurazek
 
-1) First download the KORGMapper classes from:
+a) Download the forked KORGMapper classes from my repository. It already contains my addition.
 
+or
+ 
+b)
+
+1) First download the KORGMapper classes from:
 https://github.com/Endut/KORGNanoKontrol
 
 2) Download the KORGEasyMap file from this repository
 
-3) How to use the wrapper:
+So...  How to use the wrapper:
 
 ``` js
 (
